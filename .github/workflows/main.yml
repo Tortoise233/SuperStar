@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 账号 -p 密码 -l 256869211 #课程id，默认为心理课的
+        run: python main.py -u 18560109913 -p Wy040126 -l 141852974 #课程id，默认为心理课的
